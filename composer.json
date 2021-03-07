@@ -9,9 +9,10 @@
             "email": "main@me.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "autoload":{
         "psr-4":{"rodgers\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
+
