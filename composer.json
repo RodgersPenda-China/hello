@@ -1,0 +1,12 @@
+{
+    "name": "rodgers/hello-composer",
+    "description": "A smple hello world composer",
+    "authors": [
+        {
+            "name": "Rodgers Penda",
+            "email": "main@me.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
