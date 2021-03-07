@@ -8,5 +8,8 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload":{
+        "psr-4":{"rodgers\\HelloWorld\\": "src/"}
+    },
     "require": {}
 }
