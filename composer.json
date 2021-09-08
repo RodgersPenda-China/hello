@@ -1,18 +1,17 @@
 {
-    "name": "rodgers/hello-composer",
-    "description": "A smple hello world composer",
+    "name": "main/globalwallet",
+    "description": "Used To Pay Throughout The World",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rodgers Penda",
-            "email": "main@me.com"
+            "name": "RodgersPenda-China",
+            "email": "80173367+RodgersPenda-China@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload":{
-        "psr-4":{"rodgers\\HelloWorld\\": "src/"}
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"main\\globalwallet": "src/"}
     },
     "require": {}
 }
-
