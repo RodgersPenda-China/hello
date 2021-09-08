@@ -1,5 +1,4 @@
 <?php
-namespace main\globalwallet;
 class global_wallet{
     /**
      * Delcaring Needed Variables
