@@ -9,7 +9,7 @@
             "email": "80173367+RodgersPenda-China@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "2.0",
     "autoload": {
         "psr-4": {"main\\globalwallet\\": "src/"}
     },
